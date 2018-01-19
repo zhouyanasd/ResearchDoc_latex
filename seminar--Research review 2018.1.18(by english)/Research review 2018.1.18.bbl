@@ -1,0 +1,36 @@
+\begin{thebibliography}{1}
+
+\bibitem{RN113}
+Peter Dayan and Laurence~F Abbott.
+\newblock {\em Theoretical neuroscience}, volume~10.
+\newblock Cambridge, MA: MIT Press, 2001.
+
+\bibitem{RN85}
+Wulfram Gerstner and Werner~M Kistler.
+\newblock {\em Spiking neuron models: Single neurons, populations, plasticity}.
+\newblock Cambridge university press, 2002.
+
+\bibitem{RN158}
+Wolfgang Maass.
+\newblock Networks of spiking neurons: The third generation of neural network
+  models.
+\newblock {\em Neural Networks}, 10(9):1659--1671, 1997.
+
+\bibitem{RN179}
+Wolfgang Maass.
+\newblock Liquid state machines: motivation, theory, and applications.
+\newblock {\em Computability in context: computation and logic in the real
+  world}, pages 275--296, 2010.
+
+\bibitem{RN82}
+Wolfgang Maass, Thomas Natschläger, and Henry Markram.
+\newblock Real-time computing without stable states: A new framework for neural
+  computation based on perturbations.
+\newblock {\em Neural computation}, 14(11):2531--2560, 2002.
+
+\bibitem{RN172}
+Timothée Masquelier, Rudy Guyonneau, and Simon~J Thorpe.
+\newblock Competitive stdp-based spike pattern learning.
+\newblock {\em Neural computation}, 21(5):1259--1276, 2009.
+
+\end{thebibliography}
